@@ -15,6 +15,9 @@ VS Code
 4.) To make the transpose of a matrix.
 
 ## Theory
+What is an Array?<br>
+An array is like a row of boxes, where each box can hold a value. All the boxes are lined up in a row, and each box has a position number, called an index, which tells you where it is.
+
 What is a Matrix?<br>
 A matrix is like a grid or table where numbers are arranged in rows and columns. Think of it like a game board where each cell holds a number.
 
@@ -34,7 +37,7 @@ To transpose a matrix, you flip it over its diagonal. This means turning the row
 
 ## Program Codes:-
 
-1. USER DEFINED MATRIX
+1. USER DEFINED ARRAY
 ``` javascript
 //Sharvari Murade
 //23070123088
@@ -68,7 +71,7 @@ for (i=0 ; i<r ; i++)
 }
 ```
 
-2.MATRIX OPERATIONS
+2.ARRAY OPERATIONS
 ``` javascript
 //Sharvari Murade
 //23070123088
@@ -161,7 +164,7 @@ for (i=0 ; i< a ; i++)
 }
 ```
 
-3.MATRIX DIAGONAL SUM
+3.ARRAY DIAGONAL SUM
 ``` javascript
 //Sharvari Murade
 //23070123088
@@ -208,7 +211,7 @@ for(i=0; i<r1; i++)
 }
 ```
 
-4. MATRIX TRANSPOSE
+4. ARRAY TRANSPOSE
 ``` javascipt
 //Sharvari Murade
 //23070123088
@@ -259,3 +262,21 @@ for (i=0 ; i<c ; i++)
 
 }
 ```
+## Outputs
+1. USER DEFINED ARRAY<br>
+   <img width="311" alt="Screenshot 2024-08-29 at 3 49 24 PM" src="https://github.com/user-attachments/assets/3227b17b-8d02-43a1-acd0-f529be97cf8c">
+
+
+   
+2. ARRAY OPERATIONS<br>
+   <img width="296" alt="Screenshot 2024-08-29 at 3 53 50 PM" src="https://github.com/user-attachments/assets/0b4e4547-d4a8-442a-8ab3-cf432c94170a">
+
+
+   
+3. ARRAY DIAGONAL SUM<br>
+   <img width="448" alt="Screenshot 2024-08-29 at 3 56 40 PM" src="https://github.com/user-attachments/assets/eac067f1-2202-4b30-b14a-ef1f8f89e6a8">
+
+
+
+4. ARRAY TRANSPOSE<br>
+   <img width="315" alt="Screenshot 2024-08-29 at 3 58 31 PM" src="https://github.com/user-attachments/assets/d31bb7b0-bb95-46c2-8596-83a45d4ce2f1">
