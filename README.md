@@ -280,3 +280,18 @@ for (i=0 ; i<c ; i++)
 
 4. ARRAY TRANSPOSE<br>
    <img width="315" alt="Screenshot 2024-08-29 at 3 58 31 PM" src="https://github.com/user-attachments/assets/d31bb7b0-bb95-46c2-8596-83a45d4ce2f1">
+
+## Conclusion
+Here's a simple summary of what you’ve learned:
+
+Create a Matrix: Gather numbers from the user to form a grid of rows and columns.
+
+Add Matrices: Combine two grids by adding the numbers in the same positions from each grid.
+
+Multiply Matrices: Calculate a new grid by mixing rows from one grid with columns from another grid, but only if the grids have compatible sizes.
+
+Diagonal Sum: Find the total of the numbers along the main diagonal (from top-left to bottom-right) and the secondary diagonal (from top-right to bottom-left) of a square grid.
+
+Transpose Matrix: Flip the grid by swapping rows with columns.
+
+This covers the basics of working with matrices, including creating, combining, and transforming them.
