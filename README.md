@@ -212,10 +212,9 @@ for(i=0; i<r1; i++)
 ```
 
 4. ARRAY TRANSPOSE
-``` javascipt
+```
 //Sharvari Murade
 //23070123088
-
 #include<iostream>
 using namespace std;
 int main()
@@ -262,6 +261,8 @@ for (i=0 ; i<c ; i++)
 }
 
 }
+
+
 ```
 ## Outputs
 1. USER DEFINED ARRAY<br>
