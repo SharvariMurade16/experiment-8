@@ -2,7 +2,7 @@
 ### AIM
 To create a matrix by taking inputs from user and doing operations on it.
 
-### Software Used
+### Software Used-
 VS Code
 
 ### Problem Statement
