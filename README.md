@@ -1,4 +1,4 @@
-# experiment-8
+# Experiment-8
 ### AIM
 To create a matrix by taking inputs from user and doing operations on it.
 
