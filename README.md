@@ -166,8 +166,8 @@ for (i=0 ; i< a ; i++)
 
 3.ARRAY DIAGONAL SUM
 ``` javascript
-//Sharvari Murade
-//23070123088
+// Sharvari Murade
+// 23070123088
 #include<iostream>
 using namespace std;
 int main()
