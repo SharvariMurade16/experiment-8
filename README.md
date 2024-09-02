@@ -1,11 +1,11 @@
 # Experiment-8
-### AIM
+### AIM-
 To create a matrix by taking inputs from user and doing operations on it.
 
 ### Software Used-
 VS Code
 
-### Problem Statement
+### Problem Statement-
 1.) To make a matrix by taking number of rows and column from user.
 
 2.) To make a matrix by taking number of rows and column from user and do their addition and multiplication.
@@ -14,7 +14,7 @@ VS Code
 
 4.) To make the transpose of a matrix.
 
-## Theory
+## Theory-
 What is an Array?<br>
 An array is like a row of boxes, where each box can hold a value. All the boxes are lined up in a row, and each box has a position number, called an index, which tells you where it is.
 
@@ -212,7 +212,7 @@ for(i=0; i<r1; i++)
 ```
 
 4. ARRAY TRANSPOSE
-```
+```javascript
 //Sharvari Murade
 //23070123088
 #include<iostream>
@@ -264,7 +264,7 @@ for (i=0 ; i<c ; i++)
 
 
 ```
-## Outputs
+## Outputs-
 1. USER DEFINED ARRAY<br>
    <img width="311" alt="Screenshot 2024-08-29 at 3 49 24 PM" src="https://github.com/user-attachments/assets/3227b17b-8d02-43a1-acd0-f529be97cf8c">
 
@@ -283,7 +283,7 @@ for (i=0 ; i<c ; i++)
 4. ARRAY TRANSPOSE<br>
    <img width="315" alt="Screenshot 2024-08-29 at 3 58 31 PM" src="https://github.com/user-attachments/assets/d31bb7b0-bb95-46c2-8596-83a45d4ce2f1">
 
-## Conclusion
+## Conclusion-
 Here's a simple summary of what you’ve learned:
 
 Create a Matrix: Gather numbers from the user to form a grid of rows and columns.
